@@ -1,0 +1,12 @@
+[project]
+name = "lab-10"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "scikit-learn>=1.7.2",
+    "seqeval>=1.2.2",
+    "torch>=2.9.0",
+    "tqdm>=4.67.1",
+]
